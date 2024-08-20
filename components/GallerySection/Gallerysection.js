@@ -4,27 +4,27 @@ import Image from "next/image";
 import Lightbox from "yet-another-react-lightbox";
 import Zoom from "yet-another-react-lightbox/plugins/zoom";
 import "yet-another-react-lightbox/styles.css";
-import instImg1 from "/public/images/instragram/gal1.jpg"
-import instImg2 from "/public/images/instragram/gal2.jpg"
-import instImg3 from "/public/images/instragram/gal3.jpg"
-import instImg4 from "/public/images/instragram/gal4.jpg"
-import instImg5 from "/public/images/instragram/gal5.jpg"
-import instImg6 from "/public/images/instragram/gal6.jpg"
-import instImg7 from "/public/images/instragram/gal7.jpg"
-import instImg8 from "/public/images/instragram/gal13.jpg"
-import instImg9 from "/public/images/instragram/gal16.jpg"
-import instImg10 from "/public/images/instragram/gal8.jpg"
-import instImg11 from "/public/images/instragram/gal20.jpg"
-import instImg12 from "/public/images/instragram/gal11.jpg"
-import instImg13 from "/public/images/instragram/gal14.jpg"
-import instImg14 from "/public/images/instragram/gal17.jpg"
-import instImg15 from "/public/images/instragram/gal18.jpg"
-import instImg16 from "/public/images/instragram/gal9.jpg"
+import instImg1 from "../../public/images/instragram/gal1.jpg"
+import instImg2 from "../../public/images/instragram/gal2.jpg"
+import instImg3 from "../../public/images/instragram/gal3.jpg"
+import instImg4 from "../../public/images/instragram/gal4.jpg"
+import instImg5 from "../../public/images/instragram/gal5.jpg"
+import instImg6 from "../../public/images/instragram/gal6.jpg"
+import instImg7 from "../../public/images/instragram/gal7.jpg"
+import instImg8 from "../../public/images/instragram/gal13.jpg"
+import instImg9 from "../../public/images/instragram/gal16.jpg"
+import instImg10 from "../../public/images/instragram/gal8.jpg"
+import instImg11 from "../../public/images/instragram/gal20.jpg"
+import instImg12 from "../../public/images/instragram/gal11.jpg"
+import instImg13 from "../../public/images/instragram/gal14.jpg"
+import instImg14 from "../../public/images/instragram/gal17.jpg"
+import instImg15 from "../../public/images/instragram/gal18.jpg"
+
+
 
 
 const images = [
     instImg1,
-    instImg2,
     instImg3,
     instImg4,
     instImg5,
@@ -37,8 +37,8 @@ const images = [
     instImg12,
     instImg13,
     instImg14,
-    instImg15,
-    instImg16,
+    instImg15
+   
  
 ]
 
