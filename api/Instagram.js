@@ -1,10 +1,10 @@
 
-import instImg1 from "/public/images/instragram/gal1.JPG"
-import instImg2 from "/public/images/instragram/gal2.JPG"
-import instImg3 from "/public/images/instragram/gal6.JPG"
+import instImg1 from "/public/images/instragram/gal1.jpg"
+import instImg2 from "/public/images/instragram/gal2.jpg"
+import instImg3 from "/public/images/instragram/gal6.jpg"
 import instImg4 from "/public/images/instragram/gal20.jpg"
-import instImg5 from "/public/images/instragram/gal19.JPG"
-import instImg6 from "/public/images/instragram/gal12.JPG"
+import instImg5 from "/public/images/instragram/gal19.jpg"
+import instImg6 from "/public/images/instragram/gal12.jpg"
 
 
 

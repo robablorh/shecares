@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 
-import abImg2 from "/public/images/about/image2.JPG";
+import abImg2 from "/public/images/about/image.jpg";
 import Image from "next/image";
 
 const About = (props) => {
