@@ -6,7 +6,7 @@ import Zoom from "yet-another-react-lightbox/plugins/zoom";
 import "yet-another-react-lightbox/styles.css";
 import instImg1 from "../../public/images/instragram/gal40.jpg"
 import instImg3 from "../../public/images/instragram/gal41.jpg"
-import instImg4 from "../../public/images/instragram/gal42.jpg"
+import instImg4 from "../../public/images/instragram/gal43.jpg"
 import instImg5 from "../../public/images/instragram/gal5.jpg"
 import instImg6 from "../../public/images/instragram/gal6.jpg"
 import instImg7 from "../../public/images/instragram/gal7.jpg"
