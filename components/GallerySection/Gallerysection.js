@@ -7,17 +7,17 @@ import "yet-another-react-lightbox/styles.css";
 import instImg1 from "../../public/images/instragram/gal40.jpg"
 import instImg3 from "../../public/images/instragram/gal41.jpg"
 import instImg4 from "../../public/images/instragram/gal43.jpg"
-import instImg5 from "../../public/images/instragram/gal5.jpg"
-import instImg6 from "../../public/images/instragram/gal6.jpg"
-import instImg7 from "../../public/images/instragram/gal7.jpg"
-import instImg8 from "../../public/images/instragram/gal13.jpg"
-import instImg9 from "../../public/images/instragram/gal16.jpg"
-import instImg10 from "../../public/images/instragram/gal8.jpg"
-import instImg11 from "../../public/images/instragram/gal20.jpg"
-import instImg12 from "../../public/images/instragram/gal11.jpg"
-import instImg13 from "../../public/images/instragram/gal14.jpg"
-import instImg14 from "../../public/images/instragram/gal17.jpg"
-import instImg15 from "../../public/images/instragram/gal18.jpg"
+import instImg5 from "../../public/images/instragram/gal61.jpg"
+import instImg6 from "../../public/images/instragram/gal62.jpg"
+import instImg7 from "../../public/images/instragram/gal63.jpg"
+import instImg8 from "../../public/images/instragram/gal64.jpg"
+import instImg9 from "../../public/images/instragram/gal65.jpg"
+import instImg10 from "../../public/images/instragram/gal66.jpg"
+import instImg11 from "../../public/images/instragram/gal63.jpg"
+import instImg12 from "../../public/images/instragram/gal68.jpg"
+import instImg13 from "../../public/images/instragram/gal69.jpg"
+import instImg14 from "../../public/images/instragram/gal70.jpg"
+
 
 
 
@@ -35,8 +35,8 @@ const images = [
     instImg11,
     instImg12,
     instImg13,
-    instImg14,
-    instImg15
+    instImg14
+  
    
  
 ]
