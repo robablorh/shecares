@@ -304,7 +304,7 @@
 		p {
 			font-weight: 400;
 			font-size: 50px;
-			line-height: 70px;
+			
 			color: rgb(255, 0, 111);
 			font-family: $base-font;
 			max-width: 585px;
@@ -485,7 +485,7 @@
 
 	.slide-text p {
 		@include media-query(1400px) {
-			max-width: 600px;
+			max-width: 400px;
 		}
 	}
 

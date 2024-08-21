@@ -3,9 +3,13 @@ import timg2 from '/public/images/volunteer/2.jpeg'
 import timg3 from '/public/images/volunteer/3.jpeg'
 import timg4 from '/public/images/volunteer/4.jpeg'
 import timg5 from '/public/images/volunteer/1.jpeg'
-import timg6 from '/public/images/volunteer/1.jpeg'
+import timg6 from '/public/images/volunteer/50.jpeg'
 import timg7 from '/public/images/volunteer/8.jpeg'
 import timg8 from '/public/images/volunteer/7.jpeg'
+import timg9 from '/public/images/volunteer/9.jpg'
+import timg10 from '/public/images/volunteer/60.jpeg'
+
+
 
 
 
@@ -60,7 +64,18 @@ const Teams = [
       title: 'Yvonne Attuquaye ',
       subtitle: 'Partner',
    },
-
+   {
+      Id: '9',
+      img: timg9,
+      title: 'kwame Yeboah Diaka ',
+      subtitle: 'media',
+   },
+   {
+      Id: '10',
+      img: timg10,
+      title: 'Mary K Teye ',
+      subtitle: 'Partner',
+   },
 
 
 
