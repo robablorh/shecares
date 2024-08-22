@@ -24,7 +24,7 @@ const TeamSectionS2 = (props) => {
                 </div>
                 <div className="team-wrap">
                     <div className="row">
-                        {Team.slice(0, 10).map((team, Titem) => (
+                        {Team.slice(0, 11).map((team, Titem) => (
                             <div className=" col-lg-3 col-md-6 col-12" key={Titem}>
                                 <TeamCard className='h-[200px]' Ttitle={team.title} Timg={team.img} Tsubtitle={team.subtitle} />
                             </div>

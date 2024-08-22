@@ -47,7 +47,7 @@ const Footer = (props) => {
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link onClick={ClickHandler} href="/">
+                                            <Link onClick={ClickHandler} href="https://www.instagram.com/theshecaresfoundation?igsh=YTNtcGl5OTUzY3U5">
                                                 <i className="fi flaticon-instagram"></i>
                                             </Link>
                                         </li>
@@ -91,7 +91,7 @@ const Footer = (props) => {
                                 </div>
                                 
                                 <ul className="info">
-                                    <li><i className="flaticon-email"></i>shecaresfoundation@gmail.com</li>
+                                    <li><i className="flaticon-email"></i>shecaresfoundationgh@gmail.com</li>
                                     <li><i className="flaticon-telephone"></i> +(233) 572755340</li>
                                     <li><i className="flaticon-location"></i> Dansoman , Accra</li>
                                 </ul>

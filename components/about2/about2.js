@@ -15,8 +15,8 @@ const About2 = (props) => {
         <div className="wpo-about-wrap">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12 col-12">
-              <div className="wpo-about-img">
-                <div className="">
+              <div className="">
+                <div className="wpo-about-img">
                   <Image src={abImg2} alt="img" />
                 </div>
               </div>

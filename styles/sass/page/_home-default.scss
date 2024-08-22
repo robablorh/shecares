@@ -148,9 +148,10 @@
     .wpo-about-wrap {
         .wpo-about-img {
             text-align: right;
-            margin-right: 60px;
-            position: relative;
+             position: relative;
             z-index: 1;
+        
+           
 
             @media (max-width:1399px) {
                 margin-right: 30px;

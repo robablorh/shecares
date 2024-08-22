@@ -8,6 +8,7 @@ import timg7 from '/public/images/volunteer/8.jpeg'
 import timg8 from '/public/images/volunteer/7.jpeg'
 import timg9 from '/public/images/volunteer/9.jpg'
 import timg10 from '/public/images/volunteer/60.jpeg'
+import timg11 from '/public/images/volunteer/70.jpeg'
 
 
 
@@ -19,7 +20,7 @@ const Teams = [
    {
       Id: '1',
       img: timg1,
-      title: 'Pearl Dodoo',
+      title: 'Pearl Yayra Dodoo',
       subtitle: 'Founder',
    },
    {
@@ -50,7 +51,7 @@ const Teams = [
       Id: '6',
       img: timg6,
       title: 'Roberta Ablorh',
-      subtitle: 'Web Developer/Volonteer',
+      subtitle: 'Software Developer/Volunteer',
    },
    {
       Id: '7',
@@ -67,8 +68,8 @@ const Teams = [
    {
       Id: '9',
       img: timg9,
-      title: 'kwame Yeboah Diaka ',
-      subtitle: 'media',
+      title: 'Kwame Yeboah Diaka ',
+      subtitle: 'Media',
    },
    {
       Id: '10',
@@ -76,6 +77,13 @@ const Teams = [
       title: 'Mary K Teye ',
       subtitle: 'Partner',
    },
+   {
+      Id: '11',
+      img: timg11,
+      title: 'David Afflu Jnr ',
+      subtitle: 'Volunteer',
+   },
+
 
 
 
