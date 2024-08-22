@@ -74,7 +74,7 @@ const Footer = (props) => {
                                 <div className="widget-title">
                                     <h3>Quick Links</h3>
                                 </div>
-                                <ul>
+                                <ul className='ftlist'>
                                     <li><Link onClick={ClickHandler} href="/home">Home</Link></li>
                                     <li><Link onClick={ClickHandler} href="/bout">About Us</Link></li>
                                     <li><Link onClick={ClickHandler} href="/service">Services</Link></li>

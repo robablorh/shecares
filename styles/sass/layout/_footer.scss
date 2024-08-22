@@ -160,14 +160,18 @@
 
 
         ul {
+            
             li {
                 position: relative;
                 z-index: 1;
                 padding: 8px 0;
                 padding-left: 20px;
+               
+               
 
                 &:before {
                     position: absolute;
+                   
                     left: 0px;
                     top: 16px;
                     width: 6px;
@@ -282,6 +286,8 @@
         @media(max-width:991px) {
             text-align: center;
         }
+
+       
 
         ul {
             li {
