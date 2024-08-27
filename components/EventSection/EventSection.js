@@ -15,7 +15,7 @@ const EventSection = (props) => {
         <section className="wpo-event-section section-padding">
             <div className="container">
                 <div className="row justify-content-center">
-                    <div className="col-lg-6 col-md-12 col-12">
+                    <div className="col-lg-6 col-md-12 col-12 image animate__animated animate__pulse">
                         <SectionTitle subtitle="Let’s Help Them together!" title="Join Our Upcoming
                                 Events"/>
                     </div>
@@ -34,7 +34,7 @@ const EventSection = (props) => {
                                                 </svg>
                                             </div>
                                         </div>
-                                        <div className="image">
+                                        <div className="image animate__animated animate__rotateIn">
                                             <Image src={event.pimg} alt="" />
                                         </div>
                                         <div className="text">

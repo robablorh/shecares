@@ -12,7 +12,7 @@ const About = (props) => {
   return (
     <section className="wpo-about-section section-padding">
       <div className="container">
-        <div className="wpo-about-wrap">
+        <div className="wpo-about-wrap animate__animated animate__pulse">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12 col-12">
               <div className="wpo-about-img">
@@ -24,7 +24,7 @@ const About = (props) => {
             <div className="col-lg-6 col-md-12 col-12">
               <div className="wpo-about-text">
                 <div className="wpo-section-title">
-                  <h2>Empowering Young Girls, Enriching Communities</h2>
+                  <h2 className="animate__animated animate__bounceIn">Empowering Young Girls, Enriching Communities</h2>
                 </div>
                 <p>
                   She Cares Foundation is dedicated to empowering young girls in

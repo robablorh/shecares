@@ -24,14 +24,14 @@ const FeatureSection = () => {
                     <div className="row">
                         {featuresData.map((feature, index) => (
                             <div className="col col-lg-6 col-md-6 col-12" key={index}>
-                                <div className="feature-item-wrap">
+                                <div className="feature-item-wrap animate__animated animate__fadeInUp">
                                     <div className="feature-item">
                                         <div className="feature-icon">
                                             <div className="icon">
                                                 <i className={`fi ${feature.iconClass}`}></i>
                                             </div>
                                         </div>
-                                        <div className="feature-text">
+                                        <div className="feature-text animate__animated animate__fadeInUp">
                                             <h2>{feature.title}</h2>
                                             <p>{feature.description}</p>
                                         </div>
