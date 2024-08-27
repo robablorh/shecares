@@ -8,7 +8,7 @@ import timg7 from '/public/images/volunteer/8.jpeg'
 import timg8 from '/public/images/volunteer/7.jpeg'
 import timg9 from '/public/images/volunteer/9.jpg'
 import timg10 from '/public/images/volunteer/60.jpeg'
-import timg11 from '/public/images/volunteer/70.jpeg'
+import timg11 from '/public/images/volunteer/70.jpg'
 
 
 
